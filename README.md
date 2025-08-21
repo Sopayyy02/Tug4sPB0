@@ -11,3 +11,8 @@ Konsep Dasar:
 # 🤓Extends
 Kata kunci extends dalam Java digunakan untuk menyatakan bahwa sebuah class adalah subclass (class turunan) dari class lain yang disebut superclass (class induk).
 Dengan menggunakan extends, subclass secara otomatis mewarisi semua atribut dan metode yang ada di superclass, sehingga kita tidak perlu menuliskan ulang kode yang sama.
+
+# 🤔Getter dan Setter 
+Getter dan Setter dalam Java digunakan untuk mengakses dan mengubah nilai atribut yang bersifat private.
+Dengan menggunakan getter, kita bisa mengambil nilai atribut, sedangkan setter digunakan untuk menetapkan atau mengubah nilainya.
+Dalam inheritance, getter dan setter memungkinkan subclass mengakses atribut superclass secara aman meskipun atribut tersebut bersifat private.
